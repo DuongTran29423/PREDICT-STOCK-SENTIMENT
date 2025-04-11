@@ -3,3 +3,7 @@ pandas
 numpy
 selenium
 gdown
+os
+matplotlib
+beautifulsoup4
+webdriver-manager
